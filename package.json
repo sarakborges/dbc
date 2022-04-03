@@ -41,10 +41,9 @@
     ]
   },
   "devDependencies": {
-    "@mui/icons-material": "^5.5.1",
-    "@mui/material": "^5.5.3",
-    "@mui/styled-engine-sc": "^5.5.2",
     "@types/styled-components": "^5.1.24",
-    "styled-components": "^5.3.5"
+    "styled-components": "^5.3.5",
+    "styled-icons": "^10.45.0",
+    "styled-reset": "^4.3.4"
   }
 }
